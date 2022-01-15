@@ -1,5 +1,19 @@
 # MovieX
 
+## Home Page
+
+<img src="images/MovieX-home.PNG" width="100%" height="auto">
+
+## Search Results Page
+You can search any movie name and click on the **More Details** button then the Movie opens in details.
+
+<img src="images/MovieX-search.PNG" width="100%" height="auto">
+
+## Movie Details Page
+You can click on the **View IMDB** button then view the movie details in IMDB page and click on the **Go Back To Search** button then the Home page will open.
+
+<img src="images/MovieX-details.PNG" width="100%" height="auto">
+
 ### We can open the project in Live server.
 
 ## How to open live server from the terminal in VSCode?
